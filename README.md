@@ -67,9 +67,9 @@ Create a high-performance chatbot that:
 
 ---
 
- 🔗 Colab Notebook
+ 🔗 Colab Notebook  https://colab.research.google.com/drive/11ps9Z-E5dW5ELwE053Y6rLuNUede5nx_?usp=sharing
 
-👉 [Open Colab](https://colab.research.google.com/drive/YOUR_LINK_HERE)
+
 
 ---
 
