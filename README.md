@@ -15,7 +15,7 @@ Create a high-performance chatbot that:
 ---
 
  📚 Document Used
-- Title: **India - A Comprehensive Geography**
+- Title: **India - A Comprehensive Geography** its about geography of india
 - Format: PDF (100+ pages)
 - Uploaded in Colab as: `ind_geo.pdf`
 
@@ -79,6 +79,5 @@ Create a high-performance chatbot that:
 3. Ask questions in the widget interface
 4. Optionally add your own PDF to try
 
-example questions are: pysical features of india
-                       neighbouring countries of india 
+ 
 
